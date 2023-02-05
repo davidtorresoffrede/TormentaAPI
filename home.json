@@ -1,0 +1,67 @@
+[
+  {
+     "name":"classes",
+     "label":"Classes",
+     "type":"Item"
+  },
+  {
+     "name":"poderes",
+     "label":"Poderes",
+     "type":"Item"
+  },
+  {
+     "name":"poderes-distincao",
+     "label":"Poderes de Distinção",
+     "type":"Item"
+  },
+  {
+     "name":"equipamentos",
+     "label":"Equipamentos",
+     "type":"Item"
+  },
+  {
+     "name":"equipamentos-magicos",
+     "label":"Itens Mágicos",
+     "type":"Item"
+  },
+  {
+     "name":"magias",
+     "label":"Magias",
+     "type":"Item"
+  },
+  {
+     "name":"habilidades-de-criaturas",
+     "label":"Habilidades de Criaturas",
+     "type":"Item"
+  },
+  {
+     "name":"pocoes",
+     "label":"Poções",
+     "type":"Item"
+  },
+  {
+     "name":"parceiros",
+     "label":"Parceiros",
+     "type":"Item"
+  },
+  {
+     "name":"ameacas",
+     "label":"Ameaças",
+     "type":"Actor"
+  },
+  {
+     "name":"convocacoes",
+     "label":"Convocações",
+     "type":"Actor"
+  },
+  {
+     "name":"basico",
+     "label":"Livro Básico",
+     "type":"JournalEntry"
+  },
+  {
+     "name":"tabelas-de-tesouro",
+     "label":"Tabelas de Tesouro",
+     "type":"RollTable"
+  }
+]
