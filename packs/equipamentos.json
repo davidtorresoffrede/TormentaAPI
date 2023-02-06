@@ -37,24 +37,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -79,29 +62,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -126,7 +92,6 @@
        "espacos": 1,
        "preco": 2,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -176,29 +141,12 @@
          "penalidade": -2,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -215,7 +163,6 @@
        "espacos": 1,
        "preco": 1000,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -269,64 +216,12 @@
          "penalidade": -1,
          "maxAtr": 0
        },
-       "melhorias": {
-         "thorny": null,
-         "adjusted": null,
-         "undermeasure": null,
-         "delicate": null,
-         "specialmaterial": null,
-         "polished": null,
-         "reinforced": null,
-         "sealed": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "encantos": {
-         "animateed": null,
-         "bashing": null,
-         "abascanth": null,
-         "blessed": null,
-         "acrobatic": null,
-         "winged": null,
-         "frightful": null,
-         "caustic": null,
-         "defending": null,
-         "slick": null,
-         "ghostly": null,
-         "ortification": null,
-         "frost": null,
-         "guardian": null,
-         "hypnotic": null,
-         "illusory": null,
-         "incandescent": null,
-         "invulnerable": null,
-         "opaque": null,
-         "protector": null,
-         "reflecting": null,
-         "lightning": null,
-         "blinding": null,
-         "shadow": null,
-         "zealous": null
-       },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
        }
      }
    },
@@ -347,7 +242,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -413,24 +307,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -477,29 +354,11 @@
          "qtd": "",
          "special": ""
        },
-       "encantos": {
-         "lancinante": false,
-         "lancinating": false
-       },
-       "origin": "",
        "consume": {
          "amount": null,
          "type": "",
          "target": "",
          "mpMultiplier": false
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -534,29 +393,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -581,29 +423,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "1ZF7UB1MesD7ca8A"
@@ -630,29 +455,12 @@
          "penalidade": -2,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -698,23 +506,6 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -731,7 +522,6 @@
        "espacos": 1,
        "preco": 1000,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -776,7 +566,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -826,29 +615,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -869,7 +641,6 @@
        "espacos": 0,
        "preco": 150,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -943,64 +714,6 @@
          "txt": ""
        },
        "tipo": "ammo",
-       "melhorias": {
-         "accurate": null,
-         "pungent": null,
-         "cruel": null,
-         "atrocious": null,
-         "balanced": null,
-         "harmonized": null,
-         "injection": null,
-         "massive": null,
-         "specialmaterial": null,
-         "scope": null,
-         "precise": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "encantos": {
-         "keen": null,
-         "bane": null,
-         "throwable": null,
-         "assassin": null,
-         "seeking": null,
-         "frost": null,
-         "caster": null,
-         "corrosive": null,
-         "dancing": null,
-         "defending": null,
-         "destructive": null,
-         "lacerating": null,
-         "draining": null,
-         "shock": null,
-         "energy": null,
-         "excruciating": null,
-         "flaming": null,
-         "formidable": null,
-         "lancinating": null,
-         "magnificent": null,
-         "merciful": null,
-         "unholy": null,
-         "holy": null,
-         "bloodthirsty": null,
-         "thundering": null,
-         "sepulchral": null,
-         "speed": null,
-         "poisonous": null
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
        "subtipo": ""
      }
    },
@@ -1022,29 +735,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -1160,24 +856,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "5D42HnDgEirhlxS5"
    },
@@ -1203,33 +882,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -1246,7 +904,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -1296,33 +953,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -1379,33 +1015,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -1450,11 +1065,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -1467,20 +1077,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -1507,29 +1103,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -1559,29 +1138,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -1627,23 +1189,6 @@
          "txt": "Reflexos reduz a metade"
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -1660,7 +1205,6 @@
        "espacos": 0,
        "preco": 30,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -1710,33 +1254,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -1842,24 +1365,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "AR9UuAfq1S79LCKu"
    },
@@ -1903,11 +1409,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -1922,20 +1423,6 @@
          "mpMultiplier": false
        },
        "proposito": "disparo",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
        "ataques": 0,
        "proficiencia": "marcial",
        "empunhadura": "duas",
@@ -1980,24 +1467,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -2026,29 +1496,12 @@
          "penalidade": -5,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -2070,29 +1523,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -2138,24 +1574,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -2199,11 +1618,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -2216,20 +1630,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -2256,33 +1656,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -2363,11 +1742,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -2380,20 +1754,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -2438,11 +1798,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -2455,20 +1810,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -2495,33 +1836,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -2583,7 +1903,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -2655,29 +1974,11 @@
          "qtd": "",
          "special": ""
        },
-       "encantos": {
-         "lancinante": false,
-         "lancinating": false
-       },
-       "origin": "",
        "consume": {
          "amount": null,
          "type": "",
          "target": "",
          "mpMultiplier": false
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -2727,11 +2028,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -2744,20 +2040,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -2803,11 +2085,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -2820,20 +2097,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -2860,29 +2123,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -2963,23 +2209,6 @@
          "txt": ""
        },
        "tipo": "ammo",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -2996,7 +2225,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -3066,24 +2294,7 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -3176,33 +2387,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -3279,24 +2469,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -3340,11 +2513,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -3357,20 +2525,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -3416,11 +2570,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -3433,20 +2582,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -3493,24 +2628,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -3591,24 +2709,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -3708,29 +2809,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "IBVMrbj1fVsSu6a9"
@@ -3772,11 +2856,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -3789,20 +2868,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -3829,39 +2894,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null,
-         "energetic": null,
-         "harmonized": null,
-         "specialmaterial": null,
-         "powerful": null,
-         "enhancer": null,
-         "vigilant": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -3947,23 +2985,6 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -3989,29 +3010,12 @@
          "penalidade": -3,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -4051,11 +3055,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -4068,20 +3067,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -4112,29 +3097,12 @@
          "penalidade": -4,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -4254,29 +3222,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "JcJuBJzPEoVuboMp"
@@ -4319,24 +3270,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -4574,33 +3508,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -4622,33 +3535,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -4744,29 +3636,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "KncQ047S2f8rBvK2"
@@ -4813,23 +3688,6 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -4846,7 +3704,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -4896,33 +3753,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -4974,7 +3810,6 @@
        "espacos": 0,
        "preco": 200,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -5042,11 +3877,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -5059,20 +3889,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -5103,29 +3919,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -5171,23 +3970,6 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -5229,24 +4011,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -5312,29 +4077,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -5380,24 +4128,7 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -5443,7 +4174,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -5512,11 +4242,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -5529,20 +4254,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -5587,11 +4298,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -5604,20 +4310,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -5644,33 +4336,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -5815,24 +4486,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "NsULSsz7FpJiBIZO"
    },
@@ -5872,11 +4526,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -5889,20 +4538,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -5949,24 +4584,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -6009,11 +4627,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -6026,20 +4639,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -6061,7 +4660,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -6111,33 +4709,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -6224,24 +4801,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -6285,11 +4845,6 @@
          "versatil": true,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -6302,20 +4857,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -6360,11 +4901,6 @@
          "municao": true,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -6377,20 +4913,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "fogo",
@@ -6437,24 +4959,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -6533,8 +5038,7 @@
          "atributo": "",
          "bonus": 0,
          "txt": ""
-       },
-       "origin": ""
+       }
      }
    },
    {
@@ -6574,11 +5078,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -6591,20 +5090,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "origin": "",
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "fogo",
@@ -6655,23 +5140,6 @@
          "txt": ""
        },
        "tipo": "ammo",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -6716,24 +5184,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "V8YwNH55UVO1jo74"
    },
@@ -6775,24 +5226,7 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -6861,11 +5295,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -6878,20 +5307,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -6937,11 +5352,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -6954,20 +5364,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -6994,33 +5390,12 @@
          "penalidade": -2,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -7105,11 +5480,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -7122,20 +5492,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -7157,7 +5513,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -7211,29 +5566,12 @@
          "penalidade": -1,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -7259,29 +5597,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -7298,7 +5619,6 @@
        "espacos": 0,
        "preco": 300,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -7370,29 +5690,11 @@
          "qtd": "",
          "special": ""
        },
-       "encantos": {
-         "lancinante": false,
-         "lancinating": false
-       },
-       "origin": "",
        "consume": {
          "amount": null,
          "type": "",
          "target": "",
          "mpMultiplier": false
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -7445,38 +5747,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "keen": null,
-         "bane": null,
-         "throwable": null,
-         "assassin": null,
-         "seeking": null,
-         "frost": null,
-         "caster": null,
-         "corrosive": null,
-         "dancing": null,
-         "defending": null,
-         "destructive": null,
-         "lacerating": null,
-         "draining": null,
-         "shock": null,
-         "energy": null,
-         "excruciating": null,
-         "flaming": null,
-         "formidable": null,
-         "lancinating": false,
-         "magnificent": null,
-         "merciful": null,
-         "unholy": null,
-         "holy": null,
-         "bloodthirsty": null,
-         "thundering": null,
-         "sepulchral": null,
-         "speed": null,
-         "poisonous": null
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -7490,35 +5760,7 @@
          "amount": null,
          "mpMultiplier": false
        },
-       "melhorias": {
-         "accurate": null,
-         "pungent": null,
-         "cruel": null,
-         "atrocious": null,
-         "balanced": null,
-         "harmonized": null,
-         "injection": null,
-         "massive": null,
-         "specialmaterial": null,
-         "scope": null,
-         "precise": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
        "proposito": "corpo-a-corpo",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
        "ataques": 0,
        "proficiencia": "simples",
        "empunhadura": "leve",
@@ -7573,24 +5815,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "encantos": {
-         "lancinante": false,
-         "lancinating": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -7829,29 +6053,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "Ye9upc42yVz6pHwH"
@@ -7872,7 +6079,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -7923,29 +6129,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -7987,24 +6176,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -8070,33 +6242,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -8152,7 +6303,6 @@
        "espacos": 0,
        "preco": 2,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -8218,24 +6368,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -8255,7 +6388,6 @@
        "espacos": 0,
        "preco": 200,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -8354,24 +6486,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "bOB6wziZ6QSoP5Gc"
    },
@@ -8412,11 +6527,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -8429,20 +6539,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -8519,23 +6615,6 @@
          "txt": "Reflexos reduz o dano à metade e evita as chamas"
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -8552,7 +6631,6 @@
        "espacos": 0,
        "preco": 30,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -8606,33 +6684,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -8681,23 +6738,6 @@
        "uses": {
          "autoDestroy": false
        },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      },
      "_id": "cfAj21utrVii8t7h"
@@ -8738,11 +6778,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -8755,20 +6790,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -8818,8 +6839,7 @@
          "atributo": "",
          "bonus": 0,
          "txt": ""
-       },
-       "origin": ""
+       }
      }
    },
    {
@@ -8858,11 +6878,6 @@
          "municao": true,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -8875,20 +6890,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -8938,8 +6939,7 @@
          "atributo": "",
          "bonus": 0,
          "txt": ""
-       },
-       "origin": ""
+       }
      }
    },
    {
@@ -8955,7 +6955,6 @@
        "espacos": 1,
        "preco": 500,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -9054,24 +7053,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "eei0UxgEGZ0rzqy4"
    },
@@ -9142,24 +7124,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "efp33Oq12RykdKSC"
    },
@@ -9199,11 +7164,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -9216,20 +7176,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -9275,11 +7221,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -9292,20 +7233,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -9352,24 +7279,7 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -9440,24 +7350,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -9567,29 +7460,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "hJSIRtVZKM0fmDb5"
@@ -9611,7 +7487,6 @@
        "espacos": 1,
        "preco": 7,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -9656,7 +7531,6 @@
        "espacos": 1,
        "preco": 0.2,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -9721,11 +7595,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -9738,20 +7607,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -9798,24 +7653,7 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -9835,7 +7673,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -9911,7 +7748,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -9981,24 +7817,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -10059,29 +7878,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -10127,24 +7929,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -10229,11 +8014,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -10246,20 +8026,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -10310,23 +8076,6 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -10343,7 +8092,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -10393,29 +8141,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -10441,33 +8172,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -10552,11 +8262,6 @@
          "municao": false,
          "versatil": true
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -10569,20 +8274,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -10608,7 +8299,6 @@
        "espacos": 1,
        "preco": 10,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -10667,7 +8357,6 @@
        "proficiencia": "marcial",
        "proposito": "corpo-a-corpo",
        "empunhadura": "duas",
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -10680,22 +8369,6 @@
          "mpMultiplier": false,
          "target": "",
          "type": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        },
        "ataques": 0,
        "size": "normal"
@@ -10768,29 +8441,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "kVham9N70h6WyqW4"
@@ -10852,29 +8508,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "kc5hodyP1AIeDJnv"
@@ -10946,24 +8585,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "kmbfQJLBekZl3cNM"
    },
@@ -10989,29 +8611,12 @@
          "penalidade": -3,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -11057,23 +8662,6 @@
          "txt": "Reflexos reduz a metade"
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -11094,7 +8682,6 @@
        "espacos": 1,
        "preco": 15,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -11144,29 +8731,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -11183,7 +8753,6 @@
        "espacos": 0,
        "preco": 100,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -11237,29 +8806,12 @@
          "penalidade": -4,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -11276,7 +8828,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -11344,11 +8895,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -11361,20 +8907,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -11433,24 +8965,6 @@
          "amount": null,
          "mpMultiplier": false
        },
-       "encantos": {
-         "lancinante": false,
-         "lancinating": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
        "ataques": 0,
        "proficiencia": "exotica",
        "proposito": "corpo-a-corpo",
@@ -11475,7 +8989,6 @@
        "espacos": 1,
        "preco": 10,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -11521,33 +9034,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -11573,33 +9065,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -11655,7 +9126,6 @@
        "espacos": 1,
        "preco": 1,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -11720,38 +9190,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "keen": null,
-         "bane": null,
-         "throwable": null,
-         "assassin": null,
-         "seeking": null,
-         "frost": null,
-         "caster": null,
-         "corrosive": null,
-         "dancing": null,
-         "defending": null,
-         "destructive": null,
-         "lacerating": null,
-         "draining": null,
-         "shock": null,
-         "energy": null,
-         "excruciating": null,
-         "flaming": null,
-         "formidable": null,
-         "lancinating": false,
-         "magnificent": null,
-         "merciful": null,
-         "unholy": null,
-         "holy": null,
-         "bloodthirsty": null,
-         "thundering": null,
-         "sepulchral": null,
-         "speed": null,
-         "poisonous": null
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -11764,34 +9202,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "melhorias": {
-         "accurate": null,
-         "pungent": null,
-         "cruel": null,
-         "atrocious": null,
-         "balanced": null,
-         "harmonized": null,
-         "injection": null,
-         "massive": null,
-         "specialmaterial": null,
-         "scope": null,
-         "precise": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -11842,64 +9252,6 @@
          "txt": ""
        },
        "tipo": "ammo",
-       "melhorias": {
-         "accurate": null,
-         "pungent": null,
-         "cruel": null,
-         "atrocious": null,
-         "balanced": null,
-         "harmonized": null,
-         "injection": null,
-         "massive": null,
-         "specialmaterial": null,
-         "scope": null,
-         "precise": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "encantos": {
-         "keen": null,
-         "bane": null,
-         "throwable": null,
-         "assassin": null,
-         "seeking": null,
-         "frost": null,
-         "caster": null,
-         "corrosive": null,
-         "dancing": null,
-         "defending": null,
-         "destructive": null,
-         "lacerating": null,
-         "draining": null,
-         "shock": null,
-         "energy": null,
-         "excruciating": null,
-         "flaming": null,
-         "formidable": null,
-         "lancinating": null,
-         "magnificent": null,
-         "merciful": null,
-         "unholy": null,
-         "holy": null,
-         "bloodthirsty": null,
-         "thundering": null,
-         "sepulchral": null,
-         "speed": null,
-         "poisonous": null
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
        "subtipo": ""
      }
    },
@@ -11921,33 +9273,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -12053,24 +9384,7 @@
          "txt": ""
        },
        "tipo": "food",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      }
    },
    {
@@ -12109,11 +9423,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -12126,20 +9435,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -12184,11 +9479,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -12201,20 +9491,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -12290,24 +9566,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "rVf3avjsoKoSn5q3"
    },
@@ -12324,7 +9583,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -12393,11 +9651,6 @@
          "versatil": true,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -12410,20 +9663,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -12453,29 +9692,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "sfz1xDfvqgLcXQeV"
@@ -12518,24 +9740,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -12559,7 +9764,6 @@
        "espacos": 0.5,
        "preco": 1,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -12629,23 +9833,6 @@
          "txt": "Reflexos reduz à metade"
        },
        "tipo": "alchemy",
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       },
        "subtipo": ""
      }
    },
@@ -12667,33 +9854,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -12770,24 +9936,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -12873,24 +10022,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -12939,65 +10071,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "melhorias": {
-         "accurate": null,
-         "pungent": null,
-         "cruel": null,
-         "atrocious": null,
-         "balanced": null,
-         "harmonized": null,
-         "injection": null,
-         "massive": null,
-         "specialmaterial": null,
-         "scope": null,
-         "precise": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "encantos": {
-         "keen": null,
-         "bane": null,
-         "throwable": null,
-         "assassin": null,
-         "seeking": null,
-         "frost": null,
-         "caster": null,
-         "corrosive": null,
-         "dancing": null,
-         "defending": null,
-         "destructive": null,
-         "lacerating": null,
-         "draining": null,
-         "shock": null,
-         "energy": null,
-         "excruciating": null,
-         "flaming": null,
-         "formidable": null,
-         "lancinating": null,
-         "magnificent": null,
-         "merciful": null,
-         "unholy": null,
-         "holy": null,
-         "bloodthirsty": null,
-         "thundering": null,
-         "sepulchral": null,
-         "speed": null,
-         "poisonous": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       }
+       "subtipo": ""
      }
    },
    {
@@ -13018,33 +10092,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -13088,38 +10141,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "keen": null,
-         "bane": null,
-         "throwable": null,
-         "assassin": null,
-         "seeking": null,
-         "frost": null,
-         "caster": null,
-         "corrosive": null,
-         "dancing": null,
-         "defending": null,
-         "destructive": null,
-         "lacerating": null,
-         "draining": null,
-         "shock": null,
-         "energy": null,
-         "excruciating": null,
-         "flaming": null,
-         "formidable": null,
-         "lancinating": false,
-         "magnificent": null,
-         "merciful": null,
-         "unholy": null,
-         "holy": null,
-         "bloodthirsty": null,
-         "thundering": null,
-         "sepulchral": null,
-         "speed": null,
-         "poisonous": null
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -13132,34 +10153,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "melhorias": {
-         "accurate": null,
-         "pungent": null,
-         "cruel": null,
-         "atrocious": null,
-         "balanced": null,
-         "harmonized": null,
-         "injection": null,
-         "massive": null,
-         "specialmaterial": null,
-         "scope": null,
-         "precise": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -13235,24 +10228,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "_id": "vWFPY6WKfjpZ1zZR"
    },
@@ -13293,11 +10269,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -13310,20 +10281,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -13350,33 +10307,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -13433,33 +10369,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -13535,11 +10450,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -13552,20 +10462,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -13636,29 +10532,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "_id": "wPChv8ymcWkPofWu"
@@ -13701,24 +10580,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -13747,29 +10609,12 @@
          "penalidade": -2,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      }
    },
@@ -13786,7 +10631,6 @@
        "espacos": 0,
        "preco": 50,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -13836,29 +10680,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -13879,7 +10706,6 @@
        "espacos": 1,
        "preco": 5,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -13947,11 +10773,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -13964,20 +10785,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "exotica",
@@ -14024,24 +10831,7 @@
          "txt": ""
        },
        "tipo": "material",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
  
@@ -14061,7 +10851,6 @@
        "espacos": 0,
        "preco": 10000,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -14111,33 +10900,12 @@
          "penalidade": 0,
          "maxAtr": 0
        },
-       "origin": "",
        "ativacao": {
          "custo": null,
          "condicao": "",
          "execucao": "",
          "qtd": "",
          "special": ""
-       },
-       "melhorias": {
-         "enhanced": null,
-         "golden": null,
-         "gems": null,
-         "discreet": null,
-         "macabre": null
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "encantos": {
- 
        }
      },
      "effects": [
@@ -14213,11 +10981,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -14230,20 +10993,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -14265,7 +11014,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -14335,24 +11083,7 @@
          "txt": ""
        },
        "tipo": "alchemy",
-       "origin": "",
-       "subtipo": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
-       },
-       "encantos": {
- 
-       }
+       "subtipo": ""
      },
      "effects": [
        {
@@ -14440,29 +11171,11 @@
          "qtd": "",
          "special": ""
        },
-       "encantos": {
-         "lancinante": false,
-         "lancinating": false
-       },
-       "origin": "",
        "consume": {
          "amount": null,
          "type": "",
          "target": "",
          "mpMultiplier": false
-       },
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -14488,7 +11201,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -14533,7 +11245,6 @@
        "espacos": 0,
        "preco": 0,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -14600,11 +11311,6 @@
          "municao": false,
          "versatil": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -14617,20 +11323,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "simples",
@@ -14653,7 +11345,6 @@
        "espacos": 0,
        "preco": 2500,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
@@ -14722,11 +11413,6 @@
          "versatil": false,
          "des": false
        },
-       "encantos": {
-         "arremesso": false,
-         "lancinante": false,
-         "lancinating": false
-       },
        "ativacao": {
          "custo": null,
          "condicao": "",
@@ -14739,20 +11425,6 @@
          "target": "",
          "amount": null,
          "mpMultiplier": false
-       },
-       "origin": "",
-       "upgrades": {
-         "melhoria1": "",
-         "melhoria2": "",
-         "melhoria3": "",
-         "melhoria4": "",
-         "material": "",
-         "encanto1": "",
-         "encanto2": "",
-         "encanto3": ""
-       },
-       "melhorias": {
- 
        },
        "ataques": 0,
        "proficiencia": "marcial",
@@ -14778,7 +11450,6 @@
        "espacos": 1,
        "preco": 1,
        "container": false,
-       "origin": "",
        "ativacao": {
          "custo": 0,
          "condicao": "",
