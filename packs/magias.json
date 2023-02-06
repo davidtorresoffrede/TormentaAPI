@@ -41,15 +41,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -66,31 +57,10 @@
            "bonus": 0,
            "txt": "Fortitude reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d12",
-                 "corte",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -144,15 +114,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -169,19 +130,10 @@
            "bonus": 0,
            "txt": "Vontade desacredita"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -219,15 +171,6 @@
            "units": "perm",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -244,19 +187,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -294,15 +228,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -319,19 +244,10 @@
            "bonus": 0,
            "txt": "Vontade desacredita"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -405,15 +321,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -430,19 +337,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -484,15 +382,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -509,19 +398,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -559,15 +439,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -584,36 +455,10 @@
            "bonus": 0,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "fogo",
-                 ""
-               ],
-               [
-                 "6d6",
-                 "luz",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -647,15 +492,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -672,19 +508,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -718,15 +545,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -743,19 +561,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "4",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -793,15 +602,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -818,31 +618,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Pontos de Vida Temporários",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d10",
-                 "curatpv",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -884,15 +663,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -909,19 +679,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -963,15 +724,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -988,31 +740,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "1d6+2",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "uni",
          "circulo": "2",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -1050,15 +781,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1075,31 +797,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "3d6",
-                 "psiquico",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -1137,15 +838,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1162,19 +854,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -1212,15 +895,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1237,31 +911,10 @@
            "bonus": 0,
            "txt": "Veja texto"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d8",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -1315,15 +968,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1340,19 +984,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -1398,15 +1033,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1423,31 +1049,10 @@
            "bonus": 0,
            "txt": "Fortitude reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -1489,15 +1094,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1514,19 +1110,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "2",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -1572,15 +1159,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1597,31 +1175,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d6",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -1671,15 +1228,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1696,19 +1244,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -1742,15 +1281,6 @@
            "units": "special",
            "special": "cena, até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1767,31 +1297,10 @@
            "bonus": 0,
            "txt": "Vontade Anula, Fortitude Parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -1841,15 +1350,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1866,19 +1366,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -1924,15 +1415,6 @@
            "units": "special",
            "special": "até chegar ao solo ou cena, o que vier primeiro"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -1949,19 +1431,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -1999,15 +1472,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2024,31 +1488,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d8",
-                 "corte",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -2094,15 +1537,6 @@
            "units": "special",
            "special": "1 semana ou até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2119,19 +1553,10 @@
            "bonus": 0,
            "txt": "Vontade anula (veja texto)"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -2173,15 +1598,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2198,19 +1614,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -2252,15 +1659,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2277,19 +1675,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -2323,15 +1712,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2348,19 +1728,10 @@
            "bonus": 0,
            "txt": "Fortitude anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -2410,15 +1781,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2435,19 +1797,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -2493,15 +1846,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2518,31 +1862,10 @@
            "bonus": 0,
            "txt": "Fortitude reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d8+2",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -2588,15 +1911,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2613,19 +1927,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -2667,15 +1972,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2692,19 +1988,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -2746,15 +2033,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2771,19 +2049,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -2821,15 +2090,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2846,31 +2106,10 @@
            "bonus": 0,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "eletricidade",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -2908,15 +2147,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -2933,31 +2163,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "150",
-                 "essencia",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -3007,15 +2216,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3032,19 +2232,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -3102,15 +2293,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3127,19 +2309,10 @@
            "bonus": 0,
            "txt": "Vontade anula (veja texto)"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -3177,15 +2350,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3202,19 +2366,10 @@
            "bonus": 0,
            "txt": "nenhuma"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -3264,15 +2419,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3289,31 +2435,10 @@
            "bonus": 0,
            "txt": "Reflexos parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d6",
-                 "acido",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -3359,15 +2484,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3384,19 +2500,10 @@
            "bonus": 0,
            "txt": "Vontade anual"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -3438,15 +2545,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3463,19 +2561,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -3513,15 +2602,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3538,31 +2618,10 @@
            "bonus": 0,
            "txt": "Fortitude reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d8+4",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -3604,15 +2663,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3629,19 +2679,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -3687,15 +2728,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3712,19 +2744,10 @@
            "bonus": 0,
            "txt": "Reflexos anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -3766,15 +2789,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3791,19 +2805,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -3845,15 +2850,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3870,19 +2866,10 @@
            "bonus": 0,
            "txt": "Vontade Anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -3916,15 +2903,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -3941,31 +2919,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Cura",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "3d8+3",
-                 "curapv",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -4063,15 +3020,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4088,19 +3036,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -4154,15 +3093,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4179,19 +3109,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "4",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -4225,15 +3146,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4250,31 +3162,10 @@
            "bonus": 0,
            "txt": "Fortitude (veja texto)"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d8+8",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -4316,15 +3207,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4341,31 +3223,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d6+12",
-                 "impacto",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -4411,15 +3272,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4436,19 +3288,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -4486,15 +3329,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4511,36 +3345,10 @@
            "bonus": 0,
            "txt": "Relfexos parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d6",
-                 "corte",
-                 ""
-               ],
-               [
-                 "4d6",
-                 "frio",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -4590,15 +3398,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4615,19 +3414,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -4665,15 +3455,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4690,19 +3471,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -4748,15 +3520,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4773,19 +3536,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -4819,15 +3573,6 @@
            "units": "special",
            "special": "4d12 horas"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": 2,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4844,19 +3589,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -4898,15 +3634,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -4923,31 +3650,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Cura",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d8+4",
-                 "curapv",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -4993,15 +3699,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5018,19 +3715,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -5072,15 +3760,6 @@
            "units": "special",
            "special": "Cena, até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5097,19 +3776,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -5167,15 +3837,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5192,31 +3853,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial ou Reflexos anula"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "1d8+2",
-                 "impacto",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -5250,15 +3890,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5275,36 +3906,10 @@
            "bonus": 0,
            "txt": "Reflexos parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "15d6",
-                 "fogo",
-                 ""
-               ],
-               [
-                 "15d6",
-                 "impacto",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -5342,15 +3947,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5367,54 +3963,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Manobra Agarrar",
-             "key": "ataque0",
-             "type": "ataque",
-             "parts": [
-               [
-                 "1d20",
-                 "",
-                 ""
-               ],
-               [
-                 "mist",
-                 "int",
-                 ""
-               ],
-               [
-                 "",
-                 "",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           },
-           {
-             "name": "Dano",
-             "key": "dano1",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d6",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -5464,15 +4016,6 @@
            "units": "scene",
            "special": "Ver Texto"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5489,31 +4032,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Enjoado",
-             "key": "formula0",
-             "type": "formula",
-             "parts": [
-               [
-                 "1d4",
-                 "",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -5544,15 +4066,6 @@
            "units": "special",
            "special": "veja texto"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5569,19 +4082,10 @@
            "bonus": 0,
            "txt": "veja texto"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -5667,15 +4171,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5692,19 +4187,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -5758,15 +4244,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5783,31 +4260,10 @@
            "bonus": 0,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d12",
-                 "acido",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -5849,15 +4305,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5874,31 +4321,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d8",
-                 "frio",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -5929,15 +4355,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -5954,51 +4371,10 @@
            "bonus": 0,
            "txt": "veja texto"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d6",
-                 "frio",
-                 ""
-               ],
-               [
-                 "10d8",
-                 "eletricidade",
-                 ""
-               ],
-               [
-                 "5d6",
-                 "corte",
-                 ""
-               ],
-               [
-                 "5d6",
-                 "fogo",
-                 ""
-               ],
-               [
-                 "10d6",
-                 "impacto",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -6040,15 +4416,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6065,19 +4432,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -6139,15 +4497,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6164,19 +4513,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -6214,15 +4554,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6239,19 +4570,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "4",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -6289,15 +4611,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6314,19 +4627,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -6364,15 +4668,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6389,31 +4684,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d6",
-                 "frio",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -6459,15 +4733,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6484,19 +4749,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -6534,15 +4790,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6559,19 +4806,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -6621,15 +4859,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6646,31 +4875,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d6+@for",
-                 "impacto",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -6720,15 +4928,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6745,19 +4944,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -6803,15 +4993,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6828,19 +5009,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -6886,15 +5058,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -6911,19 +5074,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -6985,15 +5139,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7010,19 +5155,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -7084,15 +5220,6 @@
            "units": "special",
            "special": "1d4 Rodadas"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7109,19 +5236,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -7163,15 +5281,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7188,19 +5297,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -7238,15 +5338,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7263,19 +5354,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -7317,15 +5399,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7342,31 +5415,10 @@
            "bonus": 0,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d6",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -7412,15 +5464,6 @@
            "units": "perm",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7437,19 +5480,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -7491,15 +5525,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7516,31 +5541,10 @@
            "bonus": 0,
            "txt": "Fortitude reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d8+2",
-                 "eletricidade",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -7582,15 +5586,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7607,19 +5602,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -7677,15 +5663,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7702,19 +5679,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -7745,15 +5713,6 @@
            "units": "special",
            "special": "Cena ou até ser descarregado"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7770,19 +5729,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -7824,15 +5774,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7849,36 +5790,10 @@
            "bonus": 0,
            "txt": "Reflexos parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d6",
-                 "fogo",
-                 ""
-               ],
-               [
-                 "4d6",
-                 "perfuracao",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -7920,15 +5835,6 @@
            "units": "special",
            "special": "permanente até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -7945,31 +5851,10 @@
            "bonus": 0,
            "txt": "varia (veja o texto)"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "acido",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "uni",
          "circulo": "2",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -8027,15 +5912,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8052,19 +5928,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -8098,15 +5965,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8123,19 +5981,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -8185,15 +6034,6 @@
            "units": "special",
            "special": "veja texto"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8210,19 +6050,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -8260,15 +6091,6 @@
            "units": "special",
            "special": "sustentada ou instantânea (veja texto)"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8285,19 +6107,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -8339,15 +6152,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8364,19 +6168,10 @@
            "bonus": 0,
            "txt": "veja texto"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -8430,15 +6225,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "material",
            "target": "",
@@ -8455,19 +6241,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -8513,15 +6290,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8538,31 +6306,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d4+2",
-                 "essencia",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -8596,15 +6343,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8621,19 +6359,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -8711,15 +6440,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8736,19 +6456,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -8806,15 +6517,6 @@
            "units": "turn",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8831,19 +6533,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -8889,15 +6582,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8914,19 +6598,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -8972,15 +6647,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -8997,19 +6663,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -9043,15 +6700,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9068,19 +6716,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -9122,15 +6761,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9147,19 +6777,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -9201,15 +6822,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9226,19 +6838,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -9276,15 +6879,6 @@
            "units": "special",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9301,19 +6895,10 @@
            "bonus": 0,
            "txt": "Veja texto"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -9351,15 +6936,6 @@
            "units": "special",
            "special": "permanente ou até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9376,19 +6952,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -9434,15 +7001,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9459,19 +7017,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -9517,15 +7066,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9542,19 +7082,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -9596,15 +7127,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9621,19 +7143,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -9691,15 +7204,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9716,19 +7220,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -9759,15 +7254,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9784,19 +7270,10 @@
            "bonus": 0,
            "txt": "veja texto"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -9830,15 +7307,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9855,19 +7323,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -9909,15 +7368,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -9934,31 +7384,10 @@
            "bonus": 0,
            "txt": "Fortitude (veja texto)"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "5d6",
-                 "acido",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -10020,15 +7449,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10045,19 +7465,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -10088,15 +7499,6 @@
            "units": "special",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10113,19 +7515,10 @@
            "bonus": 0,
            "txt": "veja texto"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -10159,15 +7552,6 @@
            "units": "special",
            "special": "veja texto"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10184,19 +7568,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -10242,15 +7617,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10267,19 +7633,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -10313,15 +7670,6 @@
            "units": "special",
            "special": "instantânea ou veja texto"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10338,31 +7686,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d8",
-                 "perda",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "uni",
          "circulo": "5",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -10428,15 +7755,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10453,19 +7771,10 @@
            "bonus": 0,
            "txt": "Vontade anula (veja texto)"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -10515,15 +7824,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10540,19 +7840,10 @@
            "bonus": 0,
            "txt": "Vontade anula (veja descrição)"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -10602,15 +7893,6 @@
            "units": "inst",
            "special": "5 rodadas"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10627,57 +7909,10 @@
            "bonus": 0,
            "txt": "Reflexos Parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d6",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           },
-           {
-             "name": "Dano Mortos Vivos",
-             "key": "dano1",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d8",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           },
-           {
-             "name": "Rodadas Cego",
-             "key": "formula2",
-             "type": "formula",
-             "parts": [
-               [
-                 "1d4",
-                 "",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -10715,15 +7950,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10740,19 +7966,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -10794,15 +8011,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10819,19 +8027,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -10873,15 +8072,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10898,19 +8088,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -10952,15 +8133,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -10977,19 +8149,10 @@
            "bonus": 0,
            "txt": "Fortitude anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -11035,15 +8198,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11060,19 +8214,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -11126,15 +8271,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11151,19 +8287,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -11205,15 +8332,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11230,31 +8348,10 @@
            "bonus": null,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -11304,15 +8401,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11329,19 +8417,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "4",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -11379,15 +8458,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11404,19 +8474,10 @@
            "bonus": 0,
            "txt": "Fortitude anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -11458,15 +8519,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11483,19 +8535,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -11533,15 +8576,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11558,19 +8592,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -11608,15 +8633,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11633,19 +8649,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -11683,15 +8690,6 @@
            "units": "special",
            "special": "Cena ou até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11708,19 +8706,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -11758,15 +8747,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11783,19 +8763,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -11853,15 +8824,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11878,19 +8840,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -11940,15 +8893,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -11965,19 +8909,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -12027,15 +8962,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12052,19 +8978,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "1",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -12114,15 +9031,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12139,19 +9047,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -12205,15 +9104,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12230,19 +9120,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -12284,15 +9165,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12309,31 +9181,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Cura",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "200",
-                 "curapv",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -12383,15 +9234,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12408,19 +9250,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "tags": [
-           "Encantamento"
-         ],
-         "origin": "",
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -12466,15 +9299,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12491,19 +9315,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -12541,15 +9356,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12566,19 +9372,10 @@
            "bonus": 0,
            "txt": "Vontade Parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -12624,15 +9421,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12649,19 +9437,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -12711,15 +9490,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12736,19 +9506,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -12802,15 +9563,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12827,19 +9579,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -12881,15 +9624,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12906,19 +9640,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -12960,15 +9685,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -12985,19 +9701,10 @@
            "bonus": null,
            "txt": "Reflexos (veja texto)"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -13035,15 +9742,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13060,49 +9758,10 @@
            "bonus": 0,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano de Fogo/Elétrico",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d6",
-                 "fogo",
-                 ""
-               ],
-               [
-                 "10d6",
-                 "eletricidade",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           },
-           {
-             "name": "Dano Misto",
-             "key": "dano1",
-             "type": "dano",
-             "parts": [
-               [
-                 "20d12",
-                 "dano",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -13140,15 +9799,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13165,19 +9815,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -13211,15 +9852,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13236,44 +9868,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d12",
-                 "essencia",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           },
-           {
-             "name": "Dano parcial",
-             "key": "dano1",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d12",
-                 "essencia",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -13307,15 +9905,6 @@
            "units": "special",
            "special": "Permanente até ser descarregada"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13332,19 +9921,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "Custo adicional: penalidade de 1 PM.",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -13402,15 +9982,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13427,31 +9998,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d6",
-                 "corte",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -13493,15 +10043,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13518,19 +10059,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -13592,15 +10124,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13617,19 +10140,10 @@
            "bonus": 0,
            "txt": "Vontade desacredita"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -13667,15 +10181,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13692,31 +10197,10 @@
            "bonus": 0,
            "txt": "Veja texto"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "10d8",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "uni",
          "circulo": "5",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -13750,15 +10234,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13775,19 +10250,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "2",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -13829,15 +10295,6 @@
            "units": "round",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13854,19 +10311,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -13904,15 +10352,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -13929,19 +10368,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -13979,15 +10409,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14004,46 +10425,10 @@
            "bonus": 0,
            "txt": "Reflexos parcial"
          },
-         "rolls": [
-           {
-             "name": "Ácido",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "6d6",
-                 "acido",
-                 ""
-               ],
-               [
-                 "6d6",
-                 "eletricidade",
-                 ""
-               ],
-               [
-                 "6d6",
-                 "fogo",
-                 ""
-               ],
-               [
-                 "6d6",
-                 "frio",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -14089,15 +10474,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14114,19 +10490,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -14172,15 +10539,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14197,19 +10555,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -14259,15 +10608,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14284,19 +10624,10 @@
            "bonus": 0,
            "txt": "Reflexos anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -14338,15 +10669,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14363,19 +10685,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -14425,15 +10738,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14450,31 +10754,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Cura",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d8+2",
-                 "curapv",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -14516,15 +10799,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14541,19 +10815,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "3",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -14595,15 +10860,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14620,19 +10876,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -14678,15 +10925,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14703,19 +10941,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -14757,15 +10986,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14782,19 +11002,10 @@
            "bonus": 0,
            "txt": "Reflexos anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -14828,15 +11039,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14853,19 +11055,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -14907,15 +11100,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -14932,31 +11116,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d8",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "3",
          "preparada": false,
-         "escola": "nec",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "nec"
        }
      }
    },
@@ -15002,15 +11165,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15027,19 +11181,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -15077,15 +11222,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15102,19 +11238,10 @@
            "bonus": 0,
            "txt": "veja texto"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -15156,15 +11283,6 @@
            "units": "special",
            "special": "Veja Texto"
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15181,31 +11299,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "0",
-                 "trevas",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -15251,15 +11348,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15276,19 +11364,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -15319,15 +11398,6 @@
            "units": "special",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15344,19 +11414,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -15394,15 +11455,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15419,19 +11471,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -15477,15 +11520,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15502,19 +11536,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -15560,15 +11585,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15585,19 +11601,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -15659,15 +11666,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15684,31 +11682,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "",
-                 "",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -15750,15 +11727,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15775,44 +11743,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
-           {
-             "name": "Dano (Objeto de água ou terra)",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d4",
-                 "impacto",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           },
-           {
-             "name": "Dano de Fogo",
-             "key": "dano1",
-             "type": "dano",
-             "parts": [
-               [
-                 "1d6",
-                 "fogo",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -15858,15 +11792,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15883,19 +11808,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -15929,15 +11845,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -15954,31 +11861,10 @@
            "bonus": 0,
            "txt": "Reflexos reduz à metade"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "20d12",
-                 "essencia",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -16036,15 +11922,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16061,19 +11938,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -16111,15 +11979,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16136,19 +11995,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "tra",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "tra"
        }
      }
    },
@@ -16194,15 +12044,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16219,19 +12060,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -16269,15 +12101,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16294,19 +12117,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -16352,15 +12166,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16377,31 +12182,10 @@
            "bonus": 0,
            "txt": "Reflexos (veja texto)"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "4d8",
-                 "luz",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "div",
          "circulo": "2",
          "preparada": false,
-         "escola": "evo",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "evo"
        }
      }
    },
@@ -16439,15 +12223,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16464,19 +12239,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "5",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -16522,15 +12288,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16547,32 +12304,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
-           {
-             "name": "Dano",
-             "key": "dano0",
-             "type": "dano",
-             "parts": [
-               [
-                 "2d6",
-                 "psiquico",
-                 ""
-               ]
-             ],
-             "versatil": ""
-           }
-         ],
          "tipo": "arc",
          "circulo": "1",
          "preparada": false,
-         "escola": "enc",
-         "chatFlavor": "",
-         "tags": [
-           "AdagaMental",
-           "Encantamento"
-         ],
-         "origin": "",
-         "chatGif": ""
+         "escola": "enc"
        }
      }
    },
@@ -16606,15 +12341,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16631,19 +12357,10 @@
            "bonus": 0,
            "txt": "Fortitude parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    },
@@ -16674,15 +12391,6 @@
            "units": "sust",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16699,19 +12407,10 @@
            "bonus": 0,
            "txt": "Vontade anula"
          },
-         "rolls": [
- 
-         ],
          "tipo": "uni",
          "circulo": "3",
          "preparada": false,
-         "escola": "adv",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "adv"
        }
      }
    },
@@ -16753,15 +12452,6 @@
            "units": "inst",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16778,19 +12468,10 @@
            "bonus": 0,
            "txt": "Vontade parcial"
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "5",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -16840,15 +12521,6 @@
            "units": "day",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16865,19 +12537,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "2",
          "preparada": false,
-         "escola": "con",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "con"
        }
      }
    },
@@ -16927,15 +12590,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -16952,19 +12606,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "div",
          "circulo": "1",
          "preparada": false,
-         "escola": "abj",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "abj"
        }
      }
    },
@@ -17002,15 +12647,6 @@
            "units": "scene",
            "special": ""
          },
-         "target": {
-           "value": null,
-           "width": null,
-           "type": ""
-         },
-         "range": {
-           "value": null,
-           "units": ""
-         },
          "consume": {
            "type": "",
            "target": "",
@@ -17027,19 +12663,10 @@
            "bonus": 0,
            "txt": ""
          },
-         "rolls": [
- 
-         ],
          "tipo": "arc",
          "circulo": "4",
          "preparada": false,
-         "escola": "ilu",
-         "chatFlavor": "",
-         "origin": "",
-         "tags": [
- 
-         ],
-         "chatGif": ""
+         "escola": "ilu"
        }
      }
    }
