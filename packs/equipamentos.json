@@ -23,15 +23,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -154,15 +145,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -251,15 +233,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -393,15 +366,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -434,15 +398,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -729,15 +684,6 @@
          "units": "inst",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -804,15 +750,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -857,15 +794,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -960,15 +888,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -1009,15 +928,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -1236,15 +1146,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -1363,15 +1264,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -1721,15 +1613,6 @@
          "units": "inst",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -1795,15 +1678,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -1954,15 +1828,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -2100,15 +1965,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -2267,15 +2123,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -2755,15 +2602,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -3111,15 +2949,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -3186,15 +3015,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -3231,15 +3051,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -3453,15 +3264,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -3677,15 +3479,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -3783,15 +3576,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -4148,15 +3932,6 @@
          "value": 0,
          "units": "inst",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -4529,15 +4304,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -5033,15 +4799,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -5107,15 +4864,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -5244,15 +4992,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -5418,15 +5157,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -5484,15 +5214,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -5645,15 +5366,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -5749,15 +5461,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -6098,15 +5801,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -6240,15 +5934,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -6395,15 +6080,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -6533,15 +6209,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -6756,15 +6423,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -6862,15 +6520,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -6992,15 +6641,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -7062,15 +6702,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -7129,15 +6760,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -7554,15 +7176,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -7703,15 +7316,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -8287,15 +7891,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -8377,15 +7972,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -8585,15 +8171,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -8626,15 +8203,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -8706,15 +8274,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -8780,15 +8339,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -8955,15 +8505,6 @@
          "units": "inst",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -9029,15 +8570,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -9131,16 +8663,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "units": "",
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -9284,15 +8806,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -9413,15 +8926,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -9469,15 +8973,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -9544,15 +9039,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -9641,15 +9127,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -9861,15 +9338,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -9957,15 +9425,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -10171,15 +9630,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -10224,15 +9674,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -10343,15 +9784,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -10421,15 +9853,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -10507,15 +9930,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -10552,15 +9966,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -10707,15 +10112,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -10900,15 +10296,6 @@
          "units": "scene",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -10974,15 +10361,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -11248,15 +10626,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -11563,15 +10932,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -11683,15 +11043,6 @@
          "units": "inst",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -11761,15 +11112,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -11859,15 +11201,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -11961,15 +11294,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -12170,15 +11494,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -12359,15 +11674,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -12521,15 +11827,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -12741,15 +12038,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -12988,15 +12276,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -13063,15 +12342,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -13234,15 +12504,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -13317,15 +12578,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -13362,15 +12614,6 @@
          "value": 0,
          "units": "inst",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -13513,15 +12756,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -13625,15 +12859,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -13699,15 +12924,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -14004,15 +13220,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -14480,15 +13687,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -14607,15 +13805,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -14708,15 +13897,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -14830,15 +14010,6 @@
          "units": "",
          "special": ""
        },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
-       },
        "consume": {
          "type": "",
          "target": "",
@@ -14908,15 +14079,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -15122,15 +14284,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -15167,15 +14320,6 @@
          "value": 0,
          "units": "",
          "special": ""
-       },
-       "target": {
-         "value": null,
-         "width": null,
-         "type": ""
-       },
-       "range": {
-         "value": null,
-         "units": ""
        },
        "consume": {
          "type": "",
@@ -15363,15 +14507,6 @@
          "value": 0,
          "special": ""
        },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
-       },
        "efeito": "",
        "resistencia": {
          "txt": "",
@@ -15416,15 +14551,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -15545,15 +14671,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
@@ -15679,15 +14796,6 @@
          "units": "",
          "value": 0,
          "special": ""
-       },
-       "range": {
-         "units": "",
-         "value": 0
-       },
-       "target": {
-         "type": "",
-         "value": 0,
-         "width": 0
        },
        "efeito": "",
        "resistencia": {
