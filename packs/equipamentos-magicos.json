@@ -200,35 +200,7 @@
        "effects": [
          {
            "label": "Defensor",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-conjurador.webp",
-           "origin": "Item.34ZGhD61vaoBYaZD",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "xSZYSBzl9OV2uZEN",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-conjurador.webp"
          }
        ],
        "system": {
@@ -266,35 +238,7 @@
        "effects": [
          {
            "label": "Cinto do Campeão",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/cinto-do-campeao.webp",
-           "origin": "Item.402QJlcWzp7gaZYo",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "2F2h8pqnK77FT9eA",
-           "changes": [
-             {
-               "key": "system.atributos.for.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/cinto-do-campeao.webp"
          }
        ],
        "system": {
@@ -332,78 +276,11 @@
        "effects": [
          {
            "label": "Efeito Sustentável -1 PM",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.56TGgR3gpMyWTVq2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": true,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": " "
-             }
-           },
-           "duration": {
-             "rounds": 1,
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "TS4S3tZfmgEXY8W9",
-           "changes": [
-             {
-               "key": "system.attributes.movement.fly",
-               "mode": 2,
-               "value": "12",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "Botas Aladas",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/botas-aladas.webp",
-           "origin": "Item.56TGgR3gpMyWTVq2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "rounds": 1,
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "sfs7NME0WtIxIJkZ",
-           "changes": [
-             {
-               "key": "system.attributes.movement.fly",
-               "mode": 0,
-               "value": "0",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/botas-aladas.webp"
          }
        ],
        "system": {
@@ -441,35 +318,7 @@
        "effects": [
          {
            "label": "Brincos da Sagacidade",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/brincos.webp",
-           "origin": "Item.5L8PBHcigod9Qav1",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "z5qXS98E4zZASqU9",
-           "changes": [
-             {
-               "key": "system.atributos.int.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/brincos.webp"
          }
        ],
        "system": {
@@ -507,150 +356,15 @@
        "effects": [
          {
            "label": "Jurar (magnífica ameaçadora e lancinante)",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.GI5p93ztzcG49pXu",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "LaDqNgPelC6toKbT",
-           "changes": [
-             {
-               "key": "ataque",
-               "mode": 2,
-               "value": "2",
-               "priority": 0
-             },
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "2",
-               "priority": 0
-             },
-             {
-               "key": "criticoM",
-               "mode": 2,
-               "value": "-1",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "Jurar (Anticriatura)",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.GI5p93ztzcG49pXu",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "2"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "EKeFiqjGqRChXmXt",
-           "changes": [
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "4d8",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "formidavel",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.GI5p93ztzcG49pXu",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "xFZ98UPNeelZxwz7",
-           "changes": [
-             {
-               "key": "ataque",
-               "mode": 2,
-               "value": "2",
-               "priority": 0
-             },
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "2",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -840,99 +554,15 @@
        "effects": [
          {
            "label": "Reforçada",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/baluarte-anao.webp",
-           "origin": "Item.AUDPOjclJNiX4Xlm",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "qZBJ8jeRhobfW6ac",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/baluarte-anao.webp"
          },
          {
            "label": "Defensora",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/baluarte-anao.webp",
-           "origin": "Item.AUDPOjclJNiX4Xlm",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "s3NoIM8jTAC0BePe",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/baluarte-anao.webp"
          },
          {
            "label": "Adamante",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/baluarte-anao.webp",
-           "origin": "Item.AUDPOjclJNiX4Xlm",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "gT3xbNrrfk2no5BG",
-           "changes": [
-             {
-               "key": "system.tracos.resistencias.dano.value",
-               "mode": 2,
-               "value": "5",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/baluarte-anao.webp"
          }
        ],
        "system": {
@@ -1005,99 +635,15 @@
        "effects": [
          {
            "label": "Ajustada",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-noite.webp",
-           "origin": "Item.BfZoAqLXeM2mBUfi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "s4NpA1IPwitjdwfg",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.pda",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-noite.webp"
          },
          {
            "label": "Defensora",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-noite.webp",
-           "origin": "Item.BfZoAqLXeM2mBUfi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "UUC3uy6ywJX5wFIA",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-noite.webp"
          },
          {
            "label": "Sombrio",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-noite.webp",
-           "origin": "Item.BfZoAqLXeM2mBUfi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "dTACMaXRDlpLRoOA",
-           "changes": [
-             {
-               "key": "system.pericias.furt.bonus",
-               "mode": 2,
-               "value": "5",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-noite.webp"
          }
        ],
        "system": {
@@ -1170,35 +716,7 @@
        "effects": [
          {
            "label": "Luvas da Delicadeza",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/luvas-da-delicadeza.webp",
-           "origin": "Item.ES395oS9Gazb7wJA",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "k1ZrgT9WQvpOXXaA",
-           "changes": [
-             {
-               "key": "system.atributos.des.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/luvas-da-delicadeza.webp"
          }
        ],
        "system": {
@@ -1271,105 +789,15 @@
        "effects": [
          {
            "label": "Ataque Poderoso ou investida",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.GIW26oN36GYT1UNX",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": true,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "2I8j9qTANEJMBivp",
-           "changes": [
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "2d6",
-               "priority": 0
-             }
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "Defensora",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/couro-de-monstro.webp",
-           "origin": "Item.GIW26oN36GYT1UNX",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "tvBH20DVoDjHochC",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/couro-de-monstro.webp"
          },
          {
            "label": "Couro de Monstro",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/couro-de-monstro.webp",
-           "origin": "Item.GIW26oN36GYT1UNX",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "5Bp9TyGWcfhb6DVr",
-           "changes": [
- 
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/couro-de-monstro.webp"
          }
        ],
        "system": {
@@ -1407,40 +835,7 @@
        "effects": [
          {
            "label": "Anel de Telecinesia",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.HvaItUlAcCtEUUPc",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "spell": true,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "-1"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "doonvoDKEU6bPv44",
-           "changes": [
- 
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -1478,41 +873,7 @@
        "effects": [
          {
            "label": "Robe do Arquimago",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/robe-do-arquimago.webp",
-           "origin": "Item.IvIBlYuZS6Sn5cE6",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "J6HahyQCdUrhC6d3",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "",
-               "priority": null
-             },
-             {
-               "key": "system.modificadores.pericias.resistencia",
-               "mode": 2,
-               "value": "",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/robe-do-arquimago.webp"
          }
        ],
        "system": {
@@ -1550,223 +911,23 @@
        "effects": [
          {
            "label": "Resistencia a Fogo",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/avalanche.webp",
-           "origin": "Item.JWcrwkfQSIVnD9SR",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "Xvi41VLcE5lSK6Ou",
-           "changes": [
-             {
-               "key": "system.tracos.resistencias.fogo.value",
-               "mode": 2,
-               "value": "10",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/avalanche.webp"
          },
          {
            "label": "Congelante",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.JWcrwkfQSIVnD9SR",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "2"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "8OlsNgSEdnxqjCeb",
-           "changes": [
- 
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "Enredado",
-           "duration": {
-             "rounds": 999,
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "icon": "systems/tormenta20/icons/conditions/enredado.svg",
-           "flags": {
-             "core": {
-               "statusId": "enredado"
-             },
-             "tormenta20": {
-               "condition": true,
-               "durationScene": true,
-               "childEffect": [
-                 "lento",
-                 "vulneravel"
-               ],
-               "category": "movimento"
-             }
-           },
-           "changes": [
-             {
-               "key": "system.pericias.luta.condi",
-               "mode": 3,
-               "value": "-2",
-               "priority": null
-             },
-             {
-               "key": "system.pericias.pont.condi",
-               "mode": 3,
-               "value": "-2",
-               "priority": null
-             }
-           ],
-           "transfer": false,
-           "_id": "rO3AWRuYZwXaODj1",
-           "disabled": false,
-           "origin": null,
-           "tint": null
+           "icon": "systems/tormenta20/icons/conditions/enredado.svg"
          },
          {
            "label": "gelo eterno congelante formidável",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.JWcrwkfQSIVnD9SR",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "puFSGOVQPuOwPr6U",
-           "changes": [
-             {
-               "key": "dano:frio",
-               "mode": 2,
-               "value": "1d6+2",
-               "priority": 0
-             },
-             {
-               "key": "ataque",
-               "mode": 2,
-               "value": "2",
-               "priority": 0
-             },
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "2",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "tempestade de gelo",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.JWcrwkfQSIVnD9SR",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "6"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "VuN9msMljTCvgOLA",
-           "changes": [
-             {
-               "key": "dano:frio",
-               "mode": 2,
-               "value": "3d6",
-               "priority": 0
-             },
-             {
-               "key": "dano:impacto",
-               "mode": 2,
-               "value": "3d6",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -1807,41 +968,7 @@
        "effects": [
          {
            "label": "Faixas do Pugilista",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/faixas-do-pugilista.webp",
-           "origin": "Item.JqiWjXlU9pdOZTeb",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "LNHXtqNgtxR2jAPs",
-           "changes": [
-             {
-               "key": "system.modificadores.ataque.cac",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             },
-             {
-               "key": "system.modificadores.dano.cac",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/faixas-do-pugilista.webp"
          }
        ],
        "system": {
@@ -1914,78 +1041,11 @@
        "effects": [
          {
            "label": "Defensora",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/loriga-do-centuriao.webp",
-           "origin": "Item.Ki19ctJh88ucznGW",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "Uos4009ljq7YG94w",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/loriga-do-centuriao.webp"
          },
          {
            "label": "Loriga do Centurião",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.Ki19ctJh88ucznGW",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": true,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "e7zs6OOzWVNwUwgZ",
-           "changes": [
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "2d6[fogo]",
-               "priority": 0
-             }
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -2096,40 +1156,7 @@
        "effects": [
          {
            "label": "Anel Refletor",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.M4E3uPL5jOZn9xjy",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": true,
-               "skill": true,
-               "ability": true,
-               "power": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": true,
-               "custo": "1"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "tpKMe7dEC1J2axm0",
-           "changes": [
- 
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -2167,174 +1194,23 @@
        "effects": [
          {
            "label": "Banhada a ouro",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp",
-           "origin": "Item.MGQyoR2Jm9Db6sP2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "Qxt0OZht8i68jDiO",
-           "changes": [
-             {
-               "key": "system.pericias.dipl.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp"
          },
          {
            "label": "Sob medida",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp",
-           "origin": "Item.MGQyoR2Jm9Db6sP2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "QVBsccfKQnMBKwpA",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.pda",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp"
          },
          {
            "label": "Defensora",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp",
-           "origin": "Item.MGQyoR2Jm9Db6sP2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "H321M4Evtmiu74hD",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp"
          },
          {
            "label": "Comandar",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.MGQyoR2Jm9Db6sP2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "FJNRfzwlnk60NZg4",
-           "changes": [
-             {
-               "key": "system.atributos.car.value",
-               "mode": 2,
-               "value": "1",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "Couraça do Comando",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp",
-           "origin": "Item.MGQyoR2Jm9Db6sP2",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "yothk5q9V5aB358t",
-           "changes": [
-             {
-               "key": "system.atributos.car.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/couraca-do-comando.webp"
          }
        ],
        "system": {
@@ -2372,35 +1248,7 @@
        "effects": [
          {
            "label": "Manual dos Movimentos Precisos",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manual-dos-movimentos-precisos.webp",
-           "origin": "Item.MSPF3mDfZ4Od4eDh",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "d2M2W9qqYAffcvnd",
-           "changes": [
-             {
-               "key": "system.atributos.des.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manual-dos-movimentos-precisos.webp"
          }
        ],
        "system": {
@@ -2556,46 +1404,7 @@
        "effects": [
          {
            "label": "Manto Élfico",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.NvLnwQwZQlImALJq",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": false,
-               "skill": true,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "HJ3ddWTQLf8Spock",
-           "changes": [
-             {
-               "key": "system.pericias.furt.bonus",
-               "mode": 2,
-               "value": "5",
-               "priority": 0
-             }
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -2703,35 +1512,7 @@
        "effects": [
          {
            "label": "Cinto da Força do Gigante",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/cinto-da-forca-do-gigante.webp",
-           "origin": "Item.PBfThK5WWVbIY0iP",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "nOdcNBP9QgrrN2Xk",
-           "changes": [
-             {
-               "key": "system.atributos.for.value",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/cinto-da-forca-do-gigante.webp"
          }
        ],
        "system": {
@@ -2769,35 +1550,7 @@
        "effects": [
          {
            "label": "Tomo dos Grandes Pensamentos",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/tomo-dos-grandes-pensamentos.webp",
-           "origin": "Item.PWx9hBiySNNchHbA",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "oxF3J08bQvNjAid7",
-           "changes": [
-             {
-               "key": "system.atributos.int.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/tomo-dos-grandes-pensamentos.webp"
          }
        ],
        "system": {
@@ -2880,41 +1633,7 @@
        "effects": [
          {
            "label": "Símbolo Abençoado",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.PymQTrvR91CIsUlW",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": true,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "-1"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "CciQ564nGhsYXDId",
-           "changes": [
- 
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -2952,105 +1671,15 @@
        "effects": [
          {
            "label": "macabra",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/carapaca-demoniaca.webp",
-           "origin": "Item.R5crK6nqk3zwOjiz",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "BWmWcE7fyA38lbyL",
-           "changes": [
-             {
-               "key": "system.pericias.inti.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             },
-             {
-               "key": "system.pericias.dipl.bonus",
-               "mode": 2,
-               "value": "-2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/carapaca-demoniaca.webp"
          },
          {
            "label": "Reforçada",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/carapaca-demoniaca.webp",
-           "origin": "Item.R5crK6nqk3zwOjiz",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "EBfuWe1ZkKHrOdaU",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/carapaca-demoniaca.webp"
          },
          {
            "label": "Guardiã",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/carapaca-demoniaca.webp",
-           "origin": "Item.R5crK6nqk3zwOjiz",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "JFeinD1TmCl790Jx",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "4",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/carapaca-demoniaca.webp"
          }
        ],
        "system": {
@@ -3123,41 +1752,7 @@
        "effects": [
          {
            "label": "Elmo do Teletransporte",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.SNw2I6JAd0ukMx8B",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": true,
-               "consumable": false,
-               "items": "Salto Dimensional;Teletransporte",
-               "aumenta": false,
-               "custo": "-1"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "adsmMuThM2NVsyfv",
-           "changes": [
- 
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -3348,35 +1943,7 @@
        "effects": [
          {
            "label": "Manto do Fascínio",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-do-fascinio.webp",
-           "origin": "Item.VBaB5hQmTMj1YcMD",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "REkeheCWeFW7TuP6",
-           "changes": [
-             {
-               "key": "system.atributos.car.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-do-fascinio.webp"
          }
        ],
        "system": {
@@ -3449,35 +2016,7 @@
        "effects": [
          {
            "label": "Amuleto da Robustez",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/amuleto.webp",
-           "origin": "Item.WAObGl5rjxba8J8s",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "NLEOxpsOooRW0G0i",
-           "changes": [
-             {
-               "key": "system.atributos.con.value",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/amuleto.webp"
          }
        ],
        "system": {
@@ -3550,35 +2089,7 @@
        "effects": [
          {
            "label": "Coroa Majestosa",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/coroa.webp",
-           "origin": "Item.Yiw7Y6JtQm81gJt1",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "kDQPShgcIw357inz",
-           "changes": [
-             {
-               "key": "system.atributos.car.value",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/coroa.webp"
          }
        ],
        "system": {
@@ -3616,110 +2127,15 @@
        "effects": [
          {
            "label": "Resistência a trevas",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-eclipse.webp",
-           "origin": "Item.Z6LZT0QE6N1XrJ5u",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "6b4hSnY6jk9il61s",
-           "changes": [
-             {
-               "key": "system.tracos.resistencias.trevas.value",
-               "mode": 2,
-               "value": "10",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-eclipse.webp"
          },
          {
            "label": "Defensor",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-eclipse.webp",
-           "origin": "Item.Z6LZT0QE6N1XrJ5u",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "L2HvXzzlLrcrgxQS",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-eclipse.webp"
          },
          {
            "label": "Ataque de Trevas",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.Z6LZT0QE6N1XrJ5u",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": true,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "iksAOxrO7cxTcUQD",
-           "changes": [
-             {
-               "key": "dano",
-               "mode": 2,
-               "value": "1d8",
-               "priority": 0
-             }
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -3792,35 +2208,7 @@
        "effects": [
          {
            "label": "Braçadeiras do Arqueiro",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/bracadeiras-do-arqueiro.webp",
-           "origin": "Item.asJJmcBkZ5TP6Mnp",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "N0bXSMfLiLyi2AZJ",
-           "changes": [
-             {
-               "key": "system.modificadores.dano.ad",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/bracadeiras-do-arqueiro.webp"
          }
        ],
        "system": {
@@ -3858,35 +2246,7 @@
        "effects": [
          {
            "label": "Defensor",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-espinhoso.webp",
-           "origin": "Item.bdKVwpmbKOOjF7gO",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "oYmCTUJM6UHT6Pnv",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-espinhoso.webp"
          }
        ],
        "system": {
@@ -3924,169 +2284,23 @@
        "effects": [
          {
            "label": "Reforçada",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp",
-           "origin": "Item.cwlpIzSBlx11nMmi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "JgDx0P1BcV4EtZMK",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp"
          },
          {
            "label": "Banhada a ouro",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp",
-           "origin": "Item.cwlpIzSBlx11nMmi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "K1hzUihHXzRDdijY",
-           "changes": [
-             {
-               "key": "system.pericias.dipl.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp"
          },
          {
            "label": "Guardiã",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp",
-           "origin": "Item.cwlpIzSBlx11nMmi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "O8RfBUPOTNquWqfy",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "4",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp"
          },
          {
            "label": "Resistencia a dano",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp",
-           "origin": "Item.cwlpIzSBlx11nMmi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "tTMaP692MM5Eh0S0",
-           "changes": [
-             {
-               "key": "system.tracos.resistencias.dano.value",
-               "mode": 2,
-               "value": "",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/armadura-da-luz.webp"
          },
          {
            "label": "Zeloso",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.cwlpIzSBlx11nMmi",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "1"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "pAgoWjfqLW49sdn2",
-           "changes": [
- 
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -4124,95 +2338,11 @@
        "effects": [
          {
            "label": "Flecha piedosa",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.dL1mC5IMyt8nniom",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "pWBTm56BxaAetdc1",
-           "changes": [
-             {
-               "key": "dano",
-               "mode": 5,
-               "value": "4d8",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          },
          {
            "label": "Flecha explosiva",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.dL1mC5IMyt8nniom",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "8NhyJDYsAH0hIuHj",
-           "changes": [
-             {
-               "key": "dano",
-               "mode": 5,
-               "value": "3d6",
-               "priority": 0
-             },
-             {
-               "key": "dano:essencia",
-               "mode": 5,
-               "value": "dano:fogo",
-               "priority": 0
-             }
-           ],
-           "transfer": false
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -4253,35 +2383,7 @@
        "effects": [
          {
            "label": "Manual do Bom Exercício",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manual-do-bom-exercicio.webp",
-           "origin": "Item.dxsoRAc3W1CaQMQE",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "pB8sGewh2cBYpgDm",
-           "changes": [
-             {
-               "key": "system.atributos.for.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manual-do-bom-exercicio.webp"
          }
        ],
        "system": {
@@ -4434,35 +2536,7 @@
        "effects": [
          {
            "label": "Pingente da Sensatez",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/pingente.webp",
-           "origin": "Item.gLUFfRX1CAtvtQPr",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "T9Jqh2npY6IMXgP3",
-           "changes": [
-             {
-               "key": "system.atributos.sab.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/pingente.webp"
          }
        ],
        "system": {
@@ -4500,35 +2574,7 @@
        "effects": [
          {
            "label": "Manual da Saúde Corporal",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manual-da-saude-corporal.webp",
-           "origin": "Item.goKcWiXKZdwMlXqn",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "ylfW6K7JN8Hst7ij",
-           "changes": [
-             {
-               "key": "system.atributos.con.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manual-da-saude-corporal.webp"
          }
        ],
        "system": {
@@ -4687,78 +2733,11 @@
        "effects": [
          {
            "label": "Defensor",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-leao.webp",
-           "origin": "Item.kAGIu4l3y638MMUv",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "Kd6R6aGUkqwisEfD",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-leao.webp"
          },
          {
            "label": "Mordida",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.kAGIu4l3y638MMUv",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": true,
-               "attack": true,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": false,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": ""
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "RgW2yfgQGiGYCi9x",
-           "changes": [
-             {
-               "key": "dabo",
-               "mode": 2,
-               "value": "2d6+2",
-               "priority": 0
-             }
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -4796,35 +2775,7 @@
        "effects": [
          {
            "label": "Guardião",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-deus-sol.webp",
-           "origin": "Item.kWyrsaHHLRoujCLC",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "AQU6LrFsHOvUdwqA",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "4",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/escudo-do-deus-sol.webp"
          }
        ],
        "system": {
@@ -4862,35 +2813,7 @@
        "effects": [
          {
            "label": "Manoplas da Força do Ogro",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manoplas-da-forca-do-ogro.webp",
-           "origin": "Item.kd0YD9KZOz0tpBBA",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "4m6sOgPmNWrbue2w",
-           "changes": [
-             {
-               "key": "system.atributos.for.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manoplas-da-forca-do-ogro.webp"
          }
        ],
        "system": {
@@ -5008,35 +2931,7 @@
        "effects": [
          {
            "label": "Anel da Proteção",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/anel.webp",
-           "origin": "Item.n2GhiAzdK2Fv0atk",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "UHj4gl4Uc0Ypw5y7",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/anel.webp"
          }
        ],
        "system": {
@@ -5112,41 +3007,7 @@
        "effects": [
          {
            "label": "Orbe das Tempestades",
-           "icon": "icons/svg/upgrade.svg",
-           "origin": "Item.Poq07mg0v5qVVy7L",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": true,
-               "durationScene": false,
-               "self": false,
-               "attack": false,
-               "skill": false,
-               "ability": false,
-               "power": false,
-               "equipment": false,
-               "spell": true,
-               "consumable": false,
-               "items": "",
-               "aumenta": false,
-               "custo": "-1"
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "oijoq1mK3j2UQqte",
-           "changes": [
- 
-           ],
-           "transfer": true
+           "icon": "icons/svg/upgrade.svg"
          }
        ],
        "system": {
@@ -5184,35 +3045,7 @@
        "effects": [
          {
            "label": "Manto do Morcego",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-do-morcego.webp",
-           "origin": "Item.qEhhSwNSZmOAh8k4",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "7JaBX4Yxvj0SVW3l",
-           "changes": [
-             {
-               "key": "system.pericias.furt.bonus",
-               "mode": 2,
-               "value": "5",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-do-morcego.webp"
          }
        ],
        "system": {
@@ -5320,35 +3153,7 @@
        "effects": [
          {
            "label": "Torque do Vigor",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/torque-do-vigor.webp",
-           "origin": "Item.rCji6G4Jys9QYjXh",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "rDrBobrKAqclLlO2",
-           "changes": [
-             {
-               "key": "system.atributos.con.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/torque-do-vigor.webp"
          }
        ],
        "system": {
@@ -5386,34 +3191,7 @@
        "effects": [
          {
            "label": "Mochila de Carga",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/mochila-carga.webp",
-           "origin": "Item.cHardFND12H5x3eS",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "RMOPq91AXQT3P3eH",
-           "changes": [
-             {
-               "key": "system.attributes.carga.bonus",
-               "mode": 2,
-               "value": "10"
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/mochila-carga.webp"
          }
        ],
        "system": {
@@ -5451,35 +3229,7 @@
        "effects": [
          {
            "label": "Defensora",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/cota-elfica.webp",
-           "origin": "Item.s3q5ZBqb0BoRpeSq",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "gSoXSPitQUwFxdUw",
-           "changes": [
-             {
-               "key": "system.attributes.defesa.bonus",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/cota-elfica.webp"
          }
        ],
        "system": {
@@ -5698,35 +3448,7 @@
        "effects": [
          {
            "label": "Pulseiras da Celeridade",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/pulseiras-da-celeridade.webp",
-           "origin": "Item.vHpWMHosmAzPmMIV",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "C0IxbhlfwaPH1haS",
-           "changes": [
-             {
-               "key": "system.atributos.des.value",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/pulseiras-da-celeridade.webp"
          }
        ],
        "system": {
@@ -5764,35 +3486,7 @@
        "effects": [
          {
            "label": "Tiara da Sapiência",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/tiara.webp",
-           "origin": "Item.vcHZCbjaAe7Ttd1Q",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "0YRTpYe01nk82QCR",
-           "changes": [
-             {
-               "key": "system.atributos.int.value",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/tiara.webp"
          }
        ],
        "system": {
@@ -5830,35 +3524,7 @@
        "effects": [
          {
            "label": "Estola da Serenidade",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/estola-da-serenidade.webp",
-           "origin": "Item.wVnn7FGD0t0BU11O",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "mklRrmedJcULuq03",
-           "changes": [
-             {
-               "key": "system.atributos.sab.value",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/estola-da-serenidade.webp"
          }
        ],
        "system": {
@@ -6014,35 +3680,7 @@
        "effects": [
          {
            "label": "Tomo da Liderança e Influência",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/tomo-da-lideranca-influencia.webp",
-           "origin": "Item.ylIVTOBIvhJggWhE",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "LMsgFAAGJxYasT5n",
-           "changes": [
-             {
-               "key": "system.atributos.car.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/tomo-da-lideranca-influencia.webp"
          }
        ],
        "system": {
@@ -6090,35 +3728,7 @@
        "effects": [
          {
            "label": "Tomo da Compreensão",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/tomo-da-compreensao.webp",
-           "origin": "Item.z8YmxSob2luUuWeM",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": false,
-           "_id": "JaePVlVXVqaZwpNq",
-           "changes": [
-             {
-               "key": "system.atributos.sab.value",
-               "mode": 2,
-               "value": "1",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/tomo-da-compreensao.webp"
          }
        ],
        "system": {
@@ -6204,35 +3814,7 @@
        "effects": [
          {
            "label": "Manto da Resistência",
-           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-resistencia.webp",
-           "origin": "Item.zPxlM4MNoKihGsDn",
-           "tint": "#FFFFFF",
-           "flags": {
-             "tormenta20": {
-               "onuse": false,
-               "durationScene": false
-             }
-           },
-           "duration": {
-             "startTime": null,
-             "seconds": null,
-             "combat": null,
-             "rounds": null,
-             "turns": null,
-             "startRound": null,
-             "startTurn": null
-           },
-           "disabled": true,
-           "_id": "p3l6lvXx7HMjVtS0",
-           "changes": [
-             {
-               "key": "system.modificadores.pericias.resistencia",
-               "mode": 2,
-               "value": "2",
-               "priority": null
-             }
-           ],
-           "transfer": true
+           "icon": "systems/tormenta20/icons/itens/itens-magicos/manto-da-resistencia.webp"
          }
        ],
        "system": {
