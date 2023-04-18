@@ -8,7 +8,9 @@
       "system": {
         "pvNivelUm": 8,
         "pvPorNivel": 2,
-        "pmPorNivel": 6
+        "pmPorNivel": 6,
+        "pericias": "Misticismo (Int) e Vontade (Sab), mais 2 a sua escolha entre Conhecimento (Int), Diplomacia (Car), Enganação (Car), Guerra (Int), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Investigação (Int), Nobreza (Int), Ofício (Int) e Percepção (Sab).",
+        "proeficiencias": "Nenhuma."
       }
     }
   },
@@ -21,7 +23,9 @@
       "system": {
         "pvNivelUm": 24,
         "pvPorNivel": 6,
-        "pmPorNivel": 3
+        "pmPorNivel": 3,
+        "pericias": "Fortitude (Con) e Luta (For), mais 4 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Iniciativa (Des), Intimidação (Car), Ofício (Int), Percepção (Sab), Pontaria (Des), Sobrevivência (Sab) e Vontade (Sab).",
+        "proeficiencias": "Armas marciais e escudos."
       }
     }
   },
@@ -34,7 +38,9 @@
       "system": {
         "pvNivelUm": 12,
         "pvPorNivel": 3,
-        "pmPorNivel": 4
+        "pmPorNivel": 4,
+        "pericias": "Atuação (Car) e Reflexos (Des) mais 6 a sua escolha entre Acrobacia (Des), Cavalgar (Des), Conhecimento (Int), Diplomacia (Car), Enganação (Car), Furtividade (Des), Iniciativa (Des), Intuição (Sab), Investigação (Int), Jogatina (Car), Ladinagem (Des), Luta (For), Misticismo (Int), Nobreza (Int), Percepção (Sab), Pontaria (Des) e Vontade (Sab).",
+        "proeficiencias": "Armas marciais."
       }
     }
   },
@@ -46,7 +52,9 @@
       "system": {
         "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 3
+        "pmPorNivel": 3,
+        "pericias": "Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).",
+        "proeficiencias": "Armas marciais."
       }
   },
   {
@@ -58,7 +66,9 @@
       "system": {
         "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 4
+        "pmPorNivel": 4,
+        "pericias": "Luta (For) ou Pontaria (Des), Sobrevivência (Sab), mais 6 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Cura (Sab), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Investigação (Int), Luta (For), Ofício (Int), Percepção (Sab), Pontaria (Des) e Reflexos (Des).",
+        "proeficiencias": "Armas marciais e escudos."
       }
     }
   },
@@ -71,7 +81,9 @@
       "system": {
         "pvNivelUm": 20,
         "pvPorNivel": 5,
-        "pmPorNivel": 3
+        "pmPorNivel": 3,
+        "pericias": "Fortitude (Con) e Luta (For), mais 2 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Diplomacia (Car), Guerra (Int), Iniciativa (Des), Intimidação (Car), Nobreza (Int), Percepção (Sab) e Vontade (Sab).",
+        "proeficiencias": "Armas marciais, armaduras pesadas e escudos."
       }
     }
   },
@@ -84,7 +96,9 @@
       "system": {
         "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 5
+        "pmPorNivel": 5,
+        "pericias": "Religião (Sab) e Vontade (Sab), mais 2 a sua escolha entre Conhecimento (Int), Cura (Sab), Diplomacia (Car), Fortitude (Con), Iniciativa (Des), Intuição (Sab), Luta (For), Misticismo (Int), Nobreza (Int), Ofício (Int) e Percepção (Sab).",
+        "proeficiencias": "Armaduras pesadas e escudos."
       }
     }
   },
@@ -97,7 +111,9 @@
       "system": {
         "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 4
+        "pmPorNivel": 4,
+        "pericias": "Sobrevivência (Sab) e Vontade (Sab), mais 4 a sua escolha entre Adestramento (Car) Atletismo (For), Cavalgar (Des), Conhecimento (Int), Cura (Sab), Fortitude (Con), Iniciativa (Des), Intuição (Sab), Luta (For), Misticismo (Int), Ofício (Int), Percepção (Sab) e Religião (Sab).",
+        "proeficiencias": "Escudos."
       }
     }
   },
@@ -110,7 +126,9 @@
       "system": {
         "pvNivelUm": 20,
         "pvPorNivel": 5,
-        "pmPorNivel": 3
+        "pmPorNivel": 3,
+        "pericias": "Luta (For) ou Pontaria (Des), Fortitude (Con), mais 2 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Guerra (Int), Iniciativa (Des), Intimidação (Car), Luta (For), Ofício (Int), Percepção (Sab), Pontaria (Des) e Reflexos (Des).",
+        "proeficiencias": "Armas marciais, armaduras pesadas e escudos."
       }
     }
   },
@@ -123,7 +141,9 @@
       "system": {
         "pvNivelUm": 12,
         "pvPorNivel": 3,
-        "pmPorNivel": 4
+        "pmPorNivel": 4,
+        "pericias": "Ofício (Int) e Vontade (Sab), mais 4 a sua escolha entre Conhecimento (Int), Cura (Sab), Diplomacia (Car), Fortitude (Con), Iniciativa (Des), Investigação (Int), Luta (For), Misticismo (Int), Ofício (Int), Pilotagem (Des), Pontaria (Des) e Percepção (Sab).",
+        "proeficiencias": "Nenhuma."
       }
     }
   },
@@ -136,7 +156,9 @@
       "system": {
         "pvNivelUm": 12,
         "pvPorNivel": 4,
-        "pmPorNivel": 4
+        "pmPorNivel": 4,
+        "pericias": "Ladinagem (Des) e Reflexos (Des), mais 8 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Cavalgar (Des), Conhecimento (Int), Diplomacia (Car), Enganação (Car), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Investigação (Int), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).",
+        "proeficiencias": "Nenhuma."
       }
     }
   },
@@ -149,7 +171,9 @@
       "system": {
         "pvNivelUm": 20,
         "pvPorNivel": 5,
-        "pmPorNivel": 3
+        "pmPorNivel": 3,
+        "pericias": "Fortitude (Con) e Luta (For), mais 4 a sua escolha entre Acrobacia (Des), Adestramento (Car), Atletismo (For), Enganação (Car), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Ofício (Int), Percepção (Sab), Pontaria (Des) e Reflexos (Des).",
+        "proeficiencias": "Nenhuma."
       }
     }
   },
@@ -162,7 +186,9 @@
       "system": {
         "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 4
+        "pmPorNivel": 4,
+        "pericias": "Diplomacia (Car) ou Intimidação (Car), Vontade (Sab), mais 4 a sua escolha entre Adestramento (Car), Atuação (Car), Cavalgar (Des), Conhecimento (Int), Diplomacia (Car), Enganação (Car), Fortitude (Con), Guerra (Int), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Investigação (Int), Jogatina (Car), Luta (For), Nobreza (Int), Ofício (Int), Percepção (Sab) e Pontaria (Des).",
+        "proeficiencias": "Armas marciais, armaduras pesadas e escudos."
       }
     }
   },
@@ -175,7 +201,9 @@
       "system": {
         "pvNivelUm": 20,
         "pvPorNivel": 5,
-        "pmPorNivel": 3
+        "pmPorNivel": 3,
+        "pericias": "Luta (For) e Vontade (Sab) mais 2 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Cura (Sab), Diplomacia (Car), Fortitude (Con), Guerra (Int), Iniciativa (Des), Intuição (Sab), Nobreza (Int), Percepção (Sab) e Religião (Sab).",
+        "proeficiencias": "Armas marciais, armaduras pesadas e escudos."
       }
     }
   }
