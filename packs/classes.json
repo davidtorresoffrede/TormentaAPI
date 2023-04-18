@@ -1,45 +1,14 @@
 [
   {
-    "id": "DPhWNP689FygcOSZ",
-    "name": "Guerreiro",
-    "img": "systems/tormenta20/icons/classes/guerreiro.webp",
+    "id": "TH7OIKaDqtLLQUrs",
+    "name": "Arcanista",
+    "img": "systems/tormenta20/icons/classes/arcanista.webp",
     "type": "classe",
     "data": {
-      "effects": [
-
-      ],
       "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 5,
-        "pmPorNivel": 3,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "EnHy1teosvZmcp4D",
-    "name": "Clérigo",
-    "img": "systems/tormenta20/icons/classes/clerigo.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 4,
-        "pmPorNivel": 5,
-        "inicial": false
+        "pvNivelUm": 8,
+        "pvPorNivel": 2,
+        "pmPorNivel": 6
       }
     }
   },
@@ -49,195 +18,10 @@
     "img": "systems/tormenta20/icons/classes/barbaro.webp",
     "type": "classe",
     "data": {
-      "effects": [
-
-      ],
       "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
+        "pvNivelUm": 24,
         "pvPorNivel": 6,
-        "pmPorNivel": 3,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "ROLLbOHDe9gWNazQ",
-    "name": "Druida",
-    "img": "systems/tormenta20/icons/classes/druida.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 4,
-        "pmPorNivel": 4,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "TH7OIKaDqtLLQUrs",
-    "name": "Arcanista",
-    "img": "systems/tormenta20/icons/classes/arcanista.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 2,
-        "pmPorNivel": 6,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "VnjstNLqk1lgxsEn",
-    "name": "Paladino",
-    "img": "systems/tormenta20/icons/classes/paladino.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 5,
-        "pmPorNivel": 3,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "WAyBowpFRVKRr0mq",
-    "name": "Inventor",
-    "img": "systems/tormenta20/icons/classes/inventor.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 3,
-        "pmPorNivel": 4,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "fzTv6gS1qu4lpstx",
-    "name": "Cavaleiro",
-    "img": "systems/tormenta20/icons/classes/cavaleiro.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 5,
-        "pmPorNivel": 3,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "hBx9rVg3XGQ5wsd1",
-    "name": "Ladino",
-    "img": "systems/tormenta20/icons/classes/ladino.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 3,
-        "pmPorNivel": 4,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "kg8tLXlPNJSlwWcc",
-    "name": "Nobre",
-    "img": "systems/tormenta20/icons/classes/nobre.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 4,
-        "pmPorNivel": 4,
-        "inicial": false
-      }
-    }
-  },
-  {
-    "id": "pBABExUf8ATkRnHM",
-    "name": "Lutador",
-    "img": "systems/tormenta20/icons/classes/lutador.webp",
-    "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
-      "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
-        "pvPorNivel": 5,
-        "pmPorNivel": 3,
-        "inicial": false
+        "pmPorNivel": 3
       }
     }
   },
@@ -247,19 +31,10 @@
     "img": "systems/tormenta20/icons/classes/bardo.webp",
     "type": "classe",
     "data": {
-      "effects": [
-
-      ],
       "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
+        "pvNivelUm": 12,
         "pvPorNivel": 3,
-        "pmPorNivel": 4,
-        "inicial": false
+        "pmPorNivel": 4
       }
     }
   },
@@ -268,22 +43,11 @@
     "name": "Bucaneiro",
     "img": "systems/tormenta20/icons/classes/bucaneiro.webp",
     "type": "classe",
-    "data": {
-      "effects": [
-
-      ],
       "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
+        "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 3,
-        "inicial": false
+        "pmPorNivel": 3
       }
-    }
   },
   {
     "id": "xwI9ItqovNe5RMdF",
@@ -291,19 +55,127 @@
     "img": "systems/tormenta20/icons/classes/cacador.webp",
     "type": "classe",
     "data": {
-      "effects": [
-
-      ],
       "system": {
-        "description": {
-          "value": "",
-          "unidentified": ""
-        },
-        "source": "",
-        "niveis": 1,
+        "pvNivelUm": 16,
         "pvPorNivel": 4,
-        "pmPorNivel": 4,
-        "inicial": false
+        "pmPorNivel": 4
+      }
+    }
+  },
+  {
+    "id": "fzTv6gS1qu4lpstx",
+    "name": "Cavaleiro",
+    "img": "systems/tormenta20/icons/classes/cavaleiro.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 20,
+        "pvPorNivel": 5,
+        "pmPorNivel": 3
+      }
+    }
+  },
+  {
+    "id": "EnHy1teosvZmcp4D",
+    "name": "Clérigo",
+    "img": "systems/tormenta20/icons/classes/clerigo.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 16,
+        "pvPorNivel": 4,
+        "pmPorNivel": 5
+      }
+    }
+  },
+  {
+    "id": "ROLLbOHDe9gWNazQ",
+    "name": "Druida",
+    "img": "systems/tormenta20/icons/classes/druida.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 16,
+        "pvPorNivel": 4,
+        "pmPorNivel": 4
+      }
+    }
+  },
+  {
+    "id": "DPhWNP689FygcOSZ",
+    "name": "Guerreiro",
+    "img": "systems/tormenta20/icons/classes/guerreiro.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 20,
+        "pvPorNivel": 5,
+        "pmPorNivel": 3
+      }
+    }
+  },
+  {
+    "id": "WAyBowpFRVKRr0mq",
+    "name": "Inventor",
+    "img": "systems/tormenta20/icons/classes/inventor.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 12,
+        "pvPorNivel": 3,
+        "pmPorNivel": 4
+      }
+    }
+  },
+  {
+    "id": "hBx9rVg3XGQ5wsd1",
+    "name": "Ladino",
+    "img": "systems/tormenta20/icons/classes/ladino.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 12,
+        "pvPorNivel": 4,
+        "pmPorNivel": 4
+      }
+    }
+  },
+  {
+    "id": "pBABExUf8ATkRnHM",
+    "name": "Lutador",
+    "img": "systems/tormenta20/icons/classes/lutador.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 20,
+        "pvPorNivel": 5,
+        "pmPorNivel": 3
+      }
+    }
+  },
+  {
+    "id": "kg8tLXlPNJSlwWcc",
+    "name": "Nobre",
+    "img": "systems/tormenta20/icons/classes/nobre.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 16,
+        "pvPorNivel": 4,
+        "pmPorNivel": 4
+      }
+    }
+  },
+  {
+    "id": "VnjstNLqk1lgxsEn",
+    "name": "Paladino",
+    "img": "systems/tormenta20/icons/classes/paladino.webp",
+    "type": "classe",
+    "data": {
+      "system": {
+        "pvNivelUm": 20,
+        "pvPorNivel": 5,
+        "pmPorNivel": 3
       }
     }
   }
